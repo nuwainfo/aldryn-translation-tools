@@ -10,7 +10,7 @@ from django.utils.translation import ugettext_lazy as _
 from cms.utils.i18n import get_current_language, get_default_language, get_fallback_languages
 
 from slugify import slugify
-
+# test git
 
 class TranslatedAutoSlugifyMixin(object):
     """
