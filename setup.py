@@ -13,7 +13,7 @@ REQUIREMENTS = [
 
 
 setup(
-    name='aldryn-translation-tools-Zephyrus5',
+    name='aldryn-translation-tools',
     version=__version__,
     description='Collection of helpers and mixins for translated projects',
     author='Divio AG',
