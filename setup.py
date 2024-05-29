@@ -5,10 +5,10 @@ from aldryn_translation_tools import __version__
 
 
 REQUIREMENTS = [
-    'django-cms>=3.4.5',
-    'django-parler>=1.9.2',
+    'django-cms>=4.1.1',
+    'django-parler>=2.3',
     'Unidecode>=1.0.23',
-    'python-slugify>=1.2.6',
+    'python-slugify>=8.0.4',
 ]
 
 
